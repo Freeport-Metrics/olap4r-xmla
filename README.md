@@ -1,6 +1,6 @@
 # olap4r-xmla
 
-XML/A driver for olap4r.
+XML/A driver for olap4r. olap4r is a Ruby wrapper for olap4j library. It was open-sourced as a part of [data visualization and reporting tool - Rubbi](http://rubbi.net).
 
 ## Copyright
 
